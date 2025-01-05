@@ -4,6 +4,8 @@ Welcome to the **ONNX Runtime in Compose Multiplatform** project! 🎉 This repo
 
 ## About the Project
 
+https://github.com/user-attachments/assets/ed1eae7e-6842-46cc-80eb-fb5bb7d69ddc
+
 In this project, we explore:
 
 - **ONNX Runtime**: A cross-platform, high-performance scoring engine for Open Neural Network Exchange (ONNX) models.
