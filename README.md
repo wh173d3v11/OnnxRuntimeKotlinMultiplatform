@@ -24,7 +24,9 @@ The blog covers:
 
 ## Model Creation
 In this project, I've created a simple onnx ML model and using in ONNX runtime, which you can find [here](model_train/).
-<a href=\"https://colab.research.google.com/github/wh173d3v11/OnnxRuntimeKotlinMultiplatform/blob/main/model_train/ONNX_MODEL_Practice.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+<div>
+<a href="https://colab.research.google.com/github/wh173d3v11/OnnxRuntimeKotlinMultiplatform/blob/main/model_train/ONNX_MODEL_Practice.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+</div>
 
 ## Getting Started
 
