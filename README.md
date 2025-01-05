@@ -22,10 +22,14 @@ The blog covers:
 - Loading and running machine learning models.
 - Practical tips and best practices.
 
+## Model Creation
+In this project, I've created a simple onnx ML model and using in ONNX runtime, which you can find [here](model_train/).
+<a href=\"https://colab.research.google.com/github/wh173d3v11/OnnxRuntimeKotlinMultiplatform/blob/main/model_train/ONNX_MODEL_Practice.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
 ## Getting Started
 
 To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wh173d3v11/onnx-runtime-compose-multiplatform.git
+   git clone https://github.com/wh173d3v11/OnnxRuntimeKotlinMultiplatform.git
